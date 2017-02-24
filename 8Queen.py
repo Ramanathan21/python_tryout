@@ -1,4 +1,5 @@
 __author__ = 'Ram'
+__version__='1.0'
 board_size = 8
 chess_board = [[0 for x in range(board_size)] for x in range(board_size)]
 queen_count = board_size
